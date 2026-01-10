@@ -1,5 +1,5 @@
 ---
-name: Release
+name: 🚀 Release
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
 
 jobs:
   release:
-    name: Release
+    name: 📦 Release registry
     runs-on: ubuntu-latest
     permissions:
       contents: write
