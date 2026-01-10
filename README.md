@@ -1,6 +1,6 @@
 # 📦 extra-mason-registry
 
-My personnal extra Mason registry for testing purposes.
+My personal extra [Mason](https://github.com/mason-org/mason.nvim) registry for testing purposes.
 
 > [!CAUTION]
 > This registry is not intended for production use. It is only for testing and experimentation.
